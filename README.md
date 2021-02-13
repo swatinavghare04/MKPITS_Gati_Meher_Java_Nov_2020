@@ -20,7 +20,7 @@ Description of program
 Description of program
 
 
-## Adv_java_Practice
+## Adv_Java_Practice
 #### Program 1
 Description of program
 
